@@ -3,7 +3,7 @@ import org.junit.Test;
 
 /**
  * Created by atlantis on 14/04/16.
- * 
+ *
  */
 public class TestGameOfLife {
 
